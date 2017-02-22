@@ -1,6 +1,77 @@
 ﻿var audios = [
   {
     "tags": [
+      "FFFFFFFFF4M",
+      "Collab",
+      "9 Women",
+      "Rambles",
+      "Cock Worship",
+      "Huge Cock",
+      "Sloppy",
+      "BJ Sounds",
+      "Gagging",
+      "Begging",
+      "Fsub",
+      "Orgasms",
+      "French",
+      "49:29"
+    ],
+    "title": "Happy Birthday!",
+    "link": "https://soundgasm.net/u/AlwaysListening/FFFFFFFFF4M-Happy-Birthday-Collab-9-Women-Rambles-Cock-Worship-Huge-Cock-Sloppy-BJ-Sounds-Gagging-Begging-Fsub-Orgasms-French-4929"
+  },
+  {
+    "tags": [
+      "FFFFFFFFF4M",
+      "Collab",
+      "9 Women",
+      "Rambles",
+      "Cock Worship",
+      "Huge Cock",
+      "Sloppy",
+      "BJ Sounds",
+      "Gagging",
+      "Begging",
+      "Fsub",
+      "Orgasms",
+      "French",
+      "54:50"
+    ],
+    "title": "Happy Birthday!",
+    "link": "https://soundgasm.net/u/AlwaysListening/FFFFFFFFF4M-Happy-Birthday-Collab-9-Women-Rambles-Cock-Worship-Huge-Cock-Sloppy-BJ-Sounds-Gagging-Begging-Fsub-Orgasms-French-5450"
+  },
+  {
+    "tags": [
+      "F4A",
+      "Dirty Talk",
+      "Script Response",
+      "Si Response",
+      "Wet Sounds",
+      "Begging",
+      "Fsub",
+      "No Lube Needed"
+    ],
+    "title": "Yes, I am a Slut",
+    "link": "https://soundgasm.net/u/AlwaysListening/F4A-Yes-I-am-a-Slut-Dirty-Talk-Script-Response-SI-Response-Wet-Sounds-Begging-fsub-No-Lube-Needed"
+  },
+  {
+    "tags": [
+      "MF4A",
+      "Dirty Talk",
+      "Layered Audio",
+      "Script Response",
+      "Si Response",
+      "Wet Sounds",
+      "Begging",
+      "British Accent (Him)",
+      "Mdom",
+      "Fsub",
+      "No Lube Needed"
+    ],
+    "title": "Yes, I am a Slut",
+    "link": "https://soundgasm.net/u/AlwaysListening/MF4A-Yes-I-am-a-Slut-Dirty-Talk-Layered-Audio-Script-Response-SI-Response-Wet-Sounds-Begging-British-accent-him-mdom-fsub-No-Lube-Needed"
+  },
+  {
+    "tags": [
       "F4M",
       "Get It?",
       "Dual",
