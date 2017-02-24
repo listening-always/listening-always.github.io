@@ -22,9 +22,21 @@ var app = new Vue({
         audio_list: audios,
         filtered_audio_list: audios,
         // Tag data
-        tag_list: Object.keys(tags).map(function(item, idx) { return {tagname: item, count: tags[item]}}),
+        tag_list: Object.keys(tags).map(function(item, idx) { 
+            return {tagname: item, count: tags[item]}
+        }).sort(function(a, b) {
+            if(a.tagname < b.tagname) return -1;
+            if(a.tagname > b.tagname) return 1;
+            return 0;
+        }),
         filtered_tags: [],
-        shown_tags: Object.keys(tags).map(function(item, idx) { return {tagname: item, count: tags[item]}}),
+        shown_tags: Object.keys(tags).map(function(item, idx) { 
+            return {tagname: item, count: tags[item]}
+        }).sort(function(a, b) {
+            if(a.tagname < b.tagname) return -1;
+            if(a.tagname > b.tagname) return 1;
+            return 0;
+        }),
         // Display info
         show_taglist: false,
         // Model
