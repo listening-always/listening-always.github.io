@@ -1,23 +1,255 @@
 ﻿var audios = [
   {
     "tags": [
-      "FFFFFFFFF4M", 
-      "Collab", 
-      "9 Women", 
-      "Rambles", 
-      "Cock Worship", 
-      "Huge Cock", 
-      "Sloppy", 
-      "BJ Sounds", 
-      "Gagging", 
-      "Begging", 
-      "Fsub", 
-      "Orgasms", 
-      "French", 
-      "49:29"
+      "F4M", 
+      "Script Fill", 
+      "/U/Homersoc_", 
+      "Sci Fi", 
+      "Alien Race", 
+      "Torture", 
+      "Cyborg", 
+      "Voice Modulation", 
+      "Sound Effects", 
+      "Wet Sounds", 
+      "Squirting", 
+      "Dialogue", 
+      "Long", 
+      "No Lube Needed", 
+      "28:24"
     ], 
-    "link": "https://soundgasm.net/u/AlwaysListening/FFFFFFFFF4M-Happy-Birthday-Collab-9-Women-Rambles-Cock-Worship-Huge-Cock-Sloppy-BJ-Sounds-Gagging-Begging-Fsub-Orgasms-French-4929", 
-    "title": "Happy Birthday!"
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Dream-Girl-script-fill-uhomersoc_-Sci-Fi-Alien-Race-Torture-cyborg-voice-modulation-sound-effects-wet-sounds-squirting-dialogue-long-no-lube-needed-2824", 
+    "title": "Dream Girl"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "4 Hour Erection", 
+      "Fdom", 
+      "Er", 
+      "Medical", 
+      "Sound Effects", 
+      "Hand Job", 
+      "Countdown", 
+      "Edging", 
+      "16:06"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Dr-Palmer-4-Hour-Erection-fdom-ER-medical-sound-effects-hand-job-countdown-edging-1606", 
+    "title": "Dr. Palmer"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Nervous", 
+      "Fsub", 
+      "Mdom", 
+      "Wet Sounds", 
+      "Bj Sounds", 
+      "Quiet Orgasm", 
+      "Loud Orgasm", 
+      "Coffee", 
+      "Begging", 
+      "Safe Word", 
+      "Edging", 
+      "Gagging", 
+      "Squirting", 
+      "22:16"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Awkward-Date-nervous-fsub-very-mdom-wet-sounds-bj-sounds-quiet-orgasm-loud-orgasm-coffee-begging-safe-word-edging-some-gagging-squirting-2216", 
+    "title": "Awkward Date very some"
+  }, 
+  {
+    "tags": [
+      "FF4M", 
+      "Script Fill", 
+      "/U/Von-Scriptenstein", 
+      "Under My Skirt", 
+      "Collab", 
+      "/U/Poshbiscuit", 
+      "Fdom", 
+      "Msub", 
+      "Degradation", 
+      "Humiliation", 
+      "Domestic", 
+      "Sharing", 
+      "Face Fucking", 
+      "Bj Sounds", 
+      "Wet Sounds", 
+      "No Lube Needed", 
+      "21:21"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/FF4M-House-Husband-Part-3-Script-Fill-uvon-scriptenstein-Under-my-skirt-collab-uPoshBiscuit-Fdom-msub-degradation-humiliation-domestic-sharing-face-fucking-bj-sounds-wet-sounds-no-lube-needed-2121", 
+    "title": "House Husband Part 3"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Sound Effects", 
+      "Video Games", 
+      "Friends To Lovers", 
+      "Tomboy", 
+      "Virgin", 
+      "Teasing", 
+      "Kissing", 
+      "Begging", 
+      "Creampie", 
+      "Multiple Orgasms", 
+      "Wet Sounds", 
+      "No Lube Needed", 
+      "18:15"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Perks-of-Being-a-Girl-Sound-Effects-Video-Games-Friends-to-Lovers-Tomboy-virgin-teasing-kissing-begging-creampie-multiple-orgasms-wet-sounds-no-lube-needed-1815", 
+    "title": "Perks of Being a Girl"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Rape", 
+      "Incest", 
+      "Fdom", 
+      "Msub", 
+      "Slave", 
+      "Teasing", 
+      "Denial", 
+      "Facefucking", 
+      "Countdown", 
+      "Creampie", 
+      "Sound Effects", 
+      "Wet Sounds", 
+      "No Lube Needed", 
+      "16:56"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-My-Little-Brother-My-Fucktoy-Rape-Incest-fdom-msub-slave-teasing-denial-facefucking-countdown-creampie-sound-effects-wet-sounds-no-lube-needed-1656", 
+    "title": "My Little Brother, My Fucktoy"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Rape", 
+      "Narration", 
+      "Married", 
+      "Cuckold", 
+      "Cheating", 
+      "Sound Effects", 
+      "Wet Sounds", 
+      "No Lube Needed", 
+      "12:50"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Maid-and-Cock-Sleeve-Rape-Narration-Married-Cuckold-Cheating-sound-effects-Wet-Sounds-No-Lube-Needed-1250", 
+    "title": "Maid and Cock Sleeve"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Rape", 
+      "Cunnilingus", 
+      "Denial", 
+      "Twins", 
+      "Wet Sounds", 
+      "Fdom", 
+      "X2", 
+      "Naughty And Nice", 
+      "Creampie", 
+      "No Lube Needed"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Using-my-slave-Rape-cunnilingus-denial-twins-wet-sounds-fdom-x2-naughty-and-nice-creampie-no-lube-needed", 
+    "title": "Using my slave"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Fdom", 
+      "BJ sounds", 
+      "Wet Sounds", 
+      "Threesome", 
+      "Creampie", 
+      "Military", 
+      "Degredation", 
+      "No Lube Needed", 
+      "11:44"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Unconventional-Motivational-Techniques-FDom-BJ-sounds-Wet-sounds-Threesome-creampie-Military-Degredation-No-Lube-Needed-1144", 
+    "title": "Unconventional Motivational Techniques"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Script Fill", 
+      "/U/Homersoc_", 
+      "Lots Of Build Up", 
+      "Little Sister/Big Brother", 
+      "Big Cock Worship", 
+      "Creampie", 
+      "Humor", 
+      "Unbelievable", 
+      "BJ Sounds", 
+      "Wet Noises", 
+      "No Lube Needed", 
+      "25:43"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Taking-my-Brothers-Package-Script-Fill-uhomersoc_-lots-of-build-up-Little-SisterBig-Brother-Big-Cock-Worship-creampie-Humor-Unbelievable-BJ-Sounds-Wet-Noises-no-lube-needed-2543", 
+    "title": "Taking my Brother's Package"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Age", 
+      "Blackmail", 
+      "Incest", 
+      "Fdom", 
+      "Msub", 
+      "JOI", 
+      "Cei", 
+      "Stroking Noises", 
+      "Denial", 
+      "Degradation", 
+      "Humiliation", 
+      "Exhibitionism", 
+      "Face Sitting", 
+      "Spit", 
+      "Wet Sounds", 
+      "No Lube Needed", 
+      "11:06"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Ill-Tell-on-you-Little-Brother-Age-Blackmail-Incest-Fdom-msub-JOI-precum-CEI-stroking-noises-Denial-Degradation-Humiliation-Exhibitionism-Face-Sitting-Spit-Wet-Sounds-No-lube-needed-1106", 
+    "title": "I'll Tell on you Little Brother precum"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Rambles", 
+      "Short", 
+      "Loud", 
+      "Suction Cup Dildo", 
+      "Bad Angles", 
+      "Hitachi", 
+      "Begging", 
+      "Wet Sounds", 
+      "Squirting", 
+      "No Lube Needed", 
+      "5:23"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Riding-my-fake-cock-but-then-the-hitachi-Rambles-Short-Loud-Suction-Cup-Dildo-Bad-Angles-Hitachi-some-Begging-Wet-Sounds-Squirting-No-Lube-Needed-523", 
+    "title": "Riding my fake cock, but then the hitachi some"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Incest", 
+      "Script Fill", 
+      "Script By /U/Constantperversion", 
+      "Aunt/Nephew And His Friends", 
+      "Age", 
+      "Drinking", 
+      "Blowjobs", 
+      "Stroking", 
+      "Group Sex", 
+      "Double Penetration", 
+      "Dick Size Contest", 
+      "No Lube Needed", 
+      "23:21"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-The-Cool-Aunt-Incest-Script-Fill-Script-by-uConstantPerversion-AuntNephew-and-his-friends-Age-Drinking-Blowjobs-Stroking-Group-sex-Double-penetration-Dick-size-contest-No-Lube-Needed-2321", 
+    "title": "The Cool Aunt"
   }, 
   {
     "tags": [
@@ -34,9 +266,9 @@
       "Fsub", 
       "Orgasms", 
       "French", 
-      "54:50"
+      "49:29"
     ], 
-    "link": "https://soundgasm.net/u/AlwaysListening/FFFFFFFFF4M-Happy-Birthday-Collab-9-Women-Rambles-Cock-Worship-Huge-Cock-Sloppy-BJ-Sounds-Gagging-Begging-Fsub-Orgasms-French-5450", 
+    "link": "https://soundgasm.net/u/AlwaysListening/FFFFFFFFF4M-Happy-Birthday-Collab-9-Women-Rambles-Cock-Worship-Huge-Cock-Sloppy-BJ-Sounds-Gagging-Begging-Fsub-Orgasms-French-4929", 
     "title": "Happy Birthday!"
   }, 
   {
@@ -108,6 +340,13 @@
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/F4M-MILF-Next-Door-Part-6-MILF-Series-BJ-Noises-Wet-Sounds-Kitchen-Fucking-Coffee-Multiple-Orgasms-Dirty-Talk-squirting-no-lube-needed", 
     "title": "MILF Next Door Part 6"
+  }, 
+  {
+    "tags": [
+      "No tag"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/Choose-your-own-erotic-adventure-page-30-out-to-dinner", 
+    "title": "Choose your own erotic adventure - page 30 out to dinner"
   }, 
   {
     "tags": [
