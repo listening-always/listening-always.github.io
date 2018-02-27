@@ -1,0 +1,109 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+.header-layout {
+    background: linear-gradient(to bottom, #9f88ad 0%,#b29ebc 50%, rgb(213, 211, 211) 80%, #ffffff 100%);
+    min-height: 96px;
+    line-height: 48px;
+    padding: 12px;
+    color: #222;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header-layout .navigation-title {
+    flex: 0 0 auto;
+    font-size: 18pt;
+    font-weight: lighter;
+}
+.header-layout .navigation-spacer {
+    flex: 1 1 auto;
+}
+.header-layout .navigation-links {
+    flex: 0 0 auto;
+}
+.header-layout .navigation-links .navigation__link {
+    margin: 15px;
+    color: #444;
+    font-weight: bold;
+    text-decoration: none;
+    transition: color 0.3s linear;
+}
+.header-layout .navigation-links .navigation__link:hover {
+    color: #222;
+}
+.taglist-hidden {
+    display: none;
+}
+.taglist-visible {
+    display: block;
+}
+
+hr {
+    width: 60%;
+    height: 1px;
+    background: lightgrey;
+    background: linear-gradient(to right, #ffffff 0%, #cccccc 5%, #888888 50%, #cccccc 95%, #ffffff 100%);
+    margin: 10px auto;
+    border: 0px;
+}
+
+.single-audio {
+    display: flex;
+    min-height: 48px;
+}
+
+.single-audio .icon {
+    flex: 0 0 32px;
+    display: inline-block;
+}
+
+.single-audio .content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hint {
+    font-size: 8pt;
+    color: 8pt;
+    font-style: italic;
+    display: block;
+}
+.search-box {
+    margin: 18px auto;
+    width: 80%; 
+    text-align: center;
+}
+#tag-search {
+    display: block;
+    margin: 5px auto;
+}
+.chip {
+    padding: 3px;
+    margin: 3px;
+    background-color: lightgrey;
+    border-radius: 15px;
+    font-size: 8pt;
+    font-family: Roboto;
+    display: inline-block;
+    height: 15px;
+}
+.chip.chip-color--red {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+.chip.chip-color--light-blue {
+    background-color: lightblue;
+    color: black;
+    font-weight: bold;
+}
+
+.tag_list .chip {
+    cursor: pointer;
+}

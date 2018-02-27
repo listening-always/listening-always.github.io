@@ -47,10 +47,12 @@ var app = new Vue({
             return audios[Math.random() * audios.length + 1];
         },
         get_pill_for_tag: function(tag) {
-            if (tag.toLowerCase() == "rape") { return "mdl-chip mdl-color--red" }
-            else {
-                return this.filtered_tags.indexOf(tag) !== -1 ? "mdl-chip mdl-color--light-blue" : "mdl-chip";
-            }
+            if (tag.toLowerCase() == "rape") { return "chip chip-color--red" }
+            
+            return this.filtered_tags.indexOf(tag) !== -1 
+                ? "chip chip-color--light-blue" 
+                : "chip";
+            
         },
         get_icon_for_tags: function(taglist) {
             for (var i = 0; i < taglist.length; i++) {
