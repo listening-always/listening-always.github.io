@@ -107,3 +107,38 @@ hr {
 .tag_list .chip {
     cursor: pointer;
 }
+
+.mdl-button {
+    border: none;
+    border-radius: 2px;
+    position: relative;
+    height: 36px;
+    margin: 0;
+    min-width: 64px;
+    padding: 0 16px;
+    display: inline-block;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    overflow: hidden;
+    will-change: box-shadow;
+    transition: box-shadow .2s cubic-bezier(.4,0,1,1),background-color .2s cubic-bezier(.4,0,.2,1),color .2s cubic-bezier(.4,0,.2,1);
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+    line-height: 36px;
+    vertical-align: middle;
+    background: rgb(96,125,139);
+    color: rgb(255,255,255);
+    box-shadow: 0px 2px 3px #222;
+    transition: box-shadow 0.5s linear,
+                background-color 0.5s linear;
+}
+
+.mdl-button:hover {
+    box-shadow: 0px 2px 3px #000;
+    background-color: #9f88ad;
+}

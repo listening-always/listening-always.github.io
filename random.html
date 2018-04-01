@@ -5,59 +5,24 @@
         <meta encoding="utf-8">
         <!-- Load Roboto & Icons -->
         <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons' rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-indigo.min.css" /> 
-        <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
-        <style>
-            .header-layout {
-                background: url("https://b.thumbs.redditmedia.com/zE95Q8XTAkjLJ1QjGMJTtXNFShBUoFKg6W5vvAr-Y7c.png") center / cover;
-                height: 200px;
-                color: #222;
-                font-weight: bold;
-            }
-            .header-layout .mdl-navigation__link {
-                color: #222;
-                font-weight: bold;
-            }
-            .taglist-hidden {
-                display: none;
-            }
-            .taglist-visible {
-                display: block;
-            }
-            .mdl-chip__text {
-                font-size: 8pt;
-            }
-            .mdl-chip {
-                padding: 3px;
-                height: 18px;
-                line-height: 18px;
-                border-radius: 5px;
-                margin-right: 3px;
-            }
-
-            .tag_list .mdl-chip {
-                cursor: pointer;
-            }
-        </style>
+        <link rel="stylesheet" href="styles/default.css"/>
     </head>
     <body>
-        <div id="app" class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
-            <header class="mdl-layout__header mdl-layout__header--transparent  header-layout">
-                <div class="mdl-layout__header-row">
-                    <!-- Title -->
-                    <span class="mdl-layout-title">LA's list of filth</span>
-                    <!-- Add spacer, to align navigation to the right -->
-                    <div class="mdl-layout-spacer"></div>
-                    <!-- Navigation -->
-                    <nav class="mdl-navigation">
-                        <a class="mdl-navigation__link" href="./">Audio List</a>
-                        <a class="mdl-navigation__link" href="#">Random Audio</a>
-                    </nav>
-                    </div>
-            </header>
+        <div id="app">
+                <header class="header-layout">
+                        <!-- Title -->
+                        <span class="navigation-title">LA's list of filth</span>
+                        <!-- Add spacer, to align navigation to the right -->
+                        <div class="navigation-spacer"></div>
+                        <!-- Navigation -->
+                        <nav class="navigation-links">
+                            <a class="navigation__link" href="#">Audio List</a>
+                            <a class="navigation__link" href="random.html">Random Audio</a>
+                        </nav>
+                    </header>
             
             <div class="search-box" style="width: 80%; margin: 20px auto; text-align: center;">
-                <button v-on:click="get_random_audio" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+                <button v-on:click="get_random_audio" class="mdl-button">
                     Give me another one.
                 </button>
             </div>
@@ -68,7 +33,7 @@
                         <span class="audio-title"><a v-bind:href="random_audio.link">{{random_audio.title}}</a></span>
                         <span class="tags mdl-list__item-text-body">
                             <span v-bind:class="get_pill_for_tag(tag)" v-for="tag in random_audio.tags">
-                                <span class="mdl-chip__text">{{tag}}</span>
+                                <span>{{tag}}</span>
                             </span>
                         </span>
                     </span>
@@ -76,8 +41,8 @@
             </ul>
         </div>
         <script src="https://unpkg.com/vue/dist/vue.min.js"></script>
-        <script src="./audios.js"></script>
-        <script src="./tags.js"></script>
-        <script src="./app-random.js"></script>
+        <script src="js/audios.js"></script>
+        <script src="js/tags.js"></script>
+        <script src="js/app-random.js"></script>
     </body>
 </html>

@@ -2,6 +2,79 @@
   {
     "tags": [
       "F4A", 
+      "Short", 
+      "Wet Sounds", 
+      "Breathing Heavy", 
+      "No Lube Needed"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4A-No-Words-Short-Wet-sounds-breathing-heavy-no-lube-needed-412", 
+    "title": "No Words"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Script Fill", 
+      "Incest", 
+      "Virginity", 
+      "Impreg", 
+      "Older Brother", 
+      "Bro/Sis", 
+      "Blowjob Sounds", 
+      "Reluctance", 
+      "Wet Sounds", 
+      "Moaning", 
+      "Talking With My Mouth Full"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-I-need-my-big-brother-to-be-my-sex-therapist-Script-Fill-incest-virginity-impreg-Older-brother-brosis-blowjob-sounds-reluctance-wet-sounds-moaning-talking-with-my-mouth-full-2427", 
+    "title": "I need my big brother to be my sex therapist"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Blow Job", 
+      "Cum Eating", 
+      "Cock Worship", 
+      "Sloppy Blow Job", 
+      "Fuck My Face"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Finger-Licking-Good-Blow-job-cum-eating-cock-worship-sloppy-blow-job-fuck-my-face-1652", 
+    "title": "Finger Licking Good"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Recorded Live", 
+      "Listening In", 
+      "Edging", 
+      "Begging", 
+      "Pleading", 
+      "Moaning", 
+      "Loud", 
+      "Hitachi", 
+      "Anal Play", 
+      "Squirting", 
+      "Lube"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Edging-with-an-Audience-Recorded-Live-Listening-in-Edging-Begging-Pleading-Moaning-LOUD-Hitachi-Anal-play-Squirting-Lube-1416", 
+    "title": "Edging with an Audience"
+  }, 
+  {
+    "tags": [
+      "F4M", 
+      "Public Sex", 
+      "Ex Boyfriend", 
+      "Cheating", 
+      "Cuckold", 
+      "Fdom", 
+      "Bossy", 
+      "No Lube Needed"
+    ], 
+    "link": "https://soundgasm.net/u/AlwaysListening/F4M-Trying-on-Bras-Public-Sex-Ex-Boyfriend-cheating-cuckold-Fdom-Bossy-no-lube-needed-1354", 
+    "title": "Trying on Bras"
+  }, 
+  {
+    "tags": [
+      "F4A", 
       "Tango", 
       "Glass Dildo", 
       "Short", 
@@ -358,7 +431,7 @@
       "Femdom"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-simplisticwriter-milf-teacher-blowjob-femdom", 
-    "title": "Audiowhore - simplisticwriter -"
+    "title": "Audiowhore - simplisticwriter"
   }, 
   {
     "tags": [
@@ -368,7 +441,7 @@
       "Virgin"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-letsmakeourstory-Age-Cheating-creampie-virgin", 
-    "title": "Audiowhore - letsmakeourstory -"
+    "title": "Audiowhore - letsmakeourstory"
   }, 
   {
     "tags": [
@@ -379,7 +452,7 @@
       "School"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-PM_me_your_ladyjugs-inexperience-facade-turned-tables-age-school", 
-    "title": "Audiowhore - PM_me_your_ladyjugs -"
+    "title": "Audiowhore - PM_me_your_ladyjugs"
   }, 
   {
     "tags": [
@@ -389,7 +462,7 @@
       "No Lube Needed"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-SuplexLemon-oral-fsub-cock-hungry-no-lube-needed", 
-    "title": "Audiowhore - SuplexLemon -"
+    "title": "Audiowhore - SuplexLemon"
   }, 
   {
     "tags": [
@@ -399,7 +472,7 @@
       "Curvy"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-bobbo213-Blowjob-wet-sounds-size-queen-curvy", 
-    "title": "Audiowhore - bobbo213 -"
+    "title": "Audiowhore - bobbo213"
   }, 
   {
     "tags": [
@@ -409,7 +482,7 @@
       "Squirting"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-pls3399-Daddy-Impreg-begging-squirting", 
-    "title": "Audiowhore - pls3399 -"
+    "title": "Audiowhore - pls3399"
   }, 
   {
     "tags": [
@@ -419,7 +492,7 @@
       "Frustration"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-tarkustrooper-humor-distracted-failed-orgasm-frustration", 
-    "title": "Audiowhore - tarkustrooper -"
+    "title": "Audiowhore - tarkustrooper"
   }, 
   {
     "tags": [
@@ -429,7 +502,7 @@
       "L-Bombs"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-Woodrow_Wilson_Long-Insecurities-Kissing-Whispers-L-Bombs", 
-    "title": "Audiowhore - Woodrow_Wilson_Long -"
+    "title": "Audiowhore - Woodrow_Wilson_Long"
   }, 
   {
     "tags": [
@@ -439,7 +512,7 @@
       "Pegging"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-Pianhata-GFE-experimentation-assplay-pegging", 
-    "title": "Audiowhore - Pianhata -"
+    "title": "Audiowhore - Pianhata"
   }, 
   {
     "tags": [
@@ -449,7 +522,7 @@
       "Bend Me Over"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-theelderlybastard-older-man-stranger-chemistry-bend-me-over", 
-    "title": "AudioWhore - theelderlybastard -"
+    "title": "AudioWhore - theelderlybastard"
   }, 
   {
     "tags": [
@@ -459,7 +532,7 @@
       "Fuck Toy"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-LH599-msub-boy-pussy-pegging-fuck-toy", 
-    "title": "AudioWhore - LH599 -"
+    "title": "AudioWhore - LH599"
   }, 
   {
     "tags": [
@@ -468,7 +541,7 @@
       "Turn Your Head And Cum"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-TheFatMan18-Age-Doctors-Visit-Turn-your-head-and-cum", 
-    "title": "AudioWhore - TheFatMan18 -"
+    "title": "AudioWhore - TheFatMan18"
   }, 
   {
     "tags": [
@@ -481,7 +554,7 @@
       "Exhibitionist"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-Bleave-IncestMomCreampieReluctant-at-firstbikinis-dressing-roomexhibitionist", 
-    "title": "AudioWhore - Bleave -"
+    "title": "AudioWhore - Bleave"
   }, 
   {
     "tags": [
@@ -491,7 +564,7 @@
       "Reluctant At First"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-Bleave-IncestMomCreampieReluctant-at-first", 
-    "title": "AudioWhore - Bleave -"
+    "title": "AudioWhore - Bleave"
   }, 
   {
     "tags": [
@@ -501,7 +574,7 @@
       "First Time"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-Affinity2112-Tomboy-Friends-to-lovers-kissing-first-time", 
-    "title": "AudioWhore - Affinity2112 -"
+    "title": "AudioWhore - Affinity2112"
   }, 
   {
     "tags": [
@@ -511,7 +584,7 @@
       "Happy Birthday"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-hornygoodboy-Mdlb-virginity-Mommy-will-take-care-of-you-Happy-Birthday", 
-    "title": "AudioWhore - hornygoodboy -"
+    "title": "AudioWhore - hornygoodboy"
   }, 
   {
     "tags": [
@@ -521,7 +594,7 @@
       "Cum Slut"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-R_lassen-Car-Washing-Anal-Gang-bang-Cum-Slut", 
-    "title": "AudioWhore - R_lassen -"
+    "title": "AudioWhore - R_lassen"
   }, 
   {
     "tags": [
@@ -531,7 +604,7 @@
       "At Work"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-berndogiii-Wet-sounds-Glass-dildo-Caught-masturbatingAt-work", 
-    "title": "AudioWhore - berndogiii -"
+    "title": "AudioWhore - berndogiii"
   }, 
   {
     "tags": [
@@ -541,7 +614,7 @@
       "Squirting"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/Audiowhore-gorillabumper-helium-high-voice-wet-sounds-squirting", 
-    "title": "Audiowhore - gorillabumper -"
+    "title": "Audiowhore - gorillabumper"
   }, 
   {
     "tags": [
@@ -551,7 +624,7 @@
       "Oral"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-MythOfBacon-DDlgcatgirlsweetoral", 
-    "title": "AudioWhore - MythOfBacon -"
+    "title": "AudioWhore - MythOfBacon"
   }, 
   {
     "tags": [
@@ -561,7 +634,7 @@
       "Cum On My Breasts"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-bifun69-Good-Boy-Handjob-cock-worship-cum-on-my-breasts", 
-    "title": "AudioWhore - bifun69 -"
+    "title": "AudioWhore - bifun69"
   }, 
   {
     "tags": [
@@ -571,7 +644,7 @@
       "Cum On Face"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-exhibitBB-fdomslavefacesittingcum-on-face", 
-    "title": "AudioWhore - exhibitBB -"
+    "title": "AudioWhore - exhibitBB"
   }, 
   {
     "tags": [
@@ -581,7 +654,7 @@
       "Milf"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-themok4125-Pregnant-Creampie-Blowjob-MILF", 
-    "title": "AudioWhore - themok4125 -"
+    "title": "AudioWhore - themok4125"
   }, 
   {
     "tags": [
@@ -601,7 +674,7 @@
       "GFE"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-so_sweet_like_anise-MDlbpeggingaffectionateGFE", 
-    "title": "AudioWhore - so_sweet_like_anise -"
+    "title": "AudioWhore - so_sweet_like_anise"
   }, 
   {
     "tags": [
@@ -611,7 +684,7 @@
       "Riding"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-TwelfthDay-IncestCool-AuntNephewBlowjobRiding", 
-    "title": "AudioWhore - TwelfthDay -"
+    "title": "AudioWhore - TwelfthDay"
   }, 
   {
     "tags": [
@@ -621,7 +694,7 @@
       "Holdthemoan"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-ThrowingGamesAllDay-Gym-Tight-Leggings-Squats-Dat-AssHoldTheMoan", 
-    "title": "AudioWhore - ThrowingGamesAllDay -"
+    "title": "AudioWhore - ThrowingGamesAllDay"
   }, 
   {
     "tags": [
@@ -631,7 +704,7 @@
       "Can'T Stop"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-zeppelincity-multiples-no-lube-needed-new-record-cant-stop", 
-    "title": "AudioWhore - zeppelincity -"
+    "title": "AudioWhore - zeppelincity"
   }, 
   {
     "tags": [
@@ -641,7 +714,7 @@
       "Swallowing"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-Kintonrii-Mouth-Full-Cock-Worship-Gagging-Swallowing", 
-    "title": "AudioWhore - Kintonrii -"
+    "title": "AudioWhore - Kintonrii"
   }, 
   {
     "tags": [
@@ -651,7 +724,7 @@
       "Vouyer"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-reflectnothing-Incest-cousin-uniform-vouyer", 
-    "title": "AudioWhore - reflectnothing -"
+    "title": "AudioWhore - reflectnothing"
   }, 
   {
     "tags": [
@@ -661,7 +734,7 @@
       "Best Hj Ever"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-Agent_Eff-Handjob-Dirty-Talk-GFE-Best-HJ-Ever", 
-    "title": "AudioWhore - Agent_Eff -"
+    "title": "AudioWhore - Agent_Eff"
   }, 
   {
     "tags": [
@@ -671,7 +744,7 @@
       "Joe"
     ], 
     "link": "https://soundgasm.net/u/AlwaysListening/AudioWhore-MichaelBzz-MomSon-Incest-Dirty-Talk-JOE", 
-    "title": "AudioWhore - MichaelBzz -"
+    "title": "AudioWhore - MichaelBzz"
   }, 
   {
     "tags": [

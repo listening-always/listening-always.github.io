@@ -31,9 +31,9 @@ var app = new Vue({
             this.random_audio = audios[Math.floor(Math.random() * audios.length)];
         },
         get_pill_for_tag: function(tag) {
-            if (tag.toLowerCase() == "rape") { return "mdl-chip mdl-color--red" }
+            if (tag.toLowerCase() == "rape") { return "chip chip-color--red" }
             else {
-                return "mdl-chip";
+                return "chip";
             }
         },
         get_icon_for_tags: function(taglist) {

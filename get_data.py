@@ -9,9 +9,11 @@ from collections import OrderedDict
 
 ABBRS = r"[FM]+4?[FMA]+|DP|BJ|GFE|CBT|JOI|MD|LB|DD|LG|FSub|MDom|LA"
 filters = [
+    #{"match": r"(\[.*\])\s+.*(\[.*\])*", "replace": ""}, # Attempt to remove everything after the first few words out of brackets
     {"match": r"\[[\[\s]*.+?\]", "replace": " "}, # Attempt to remove every tag from the title
-    {"match": r" {2,}",          "replace": " "}, # Strip out multiple spaces
-    {"match": r"\d+[:.]\d+",     "replace": ""}  # Strip out durations
+    {"match": r"\s{2,}",         "replace": " "}, # Strip out multiple spaces
+    {"match": r"\d+[:.]\d+",     "replace": ""},  # Strip out durations
+    {"match": r"\s*-\s*$",       "replace": ""}   # Strip out dashes at the end
 ]
 # Super sikrit sauce:
 # On soundgasm link list: 
